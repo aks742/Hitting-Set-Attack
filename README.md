@@ -7,4 +7,5 @@ Complexity of algorithm is np-complete therefore running time is drawback for la
 Here you can find a serial and parallel version of the attack algorithm.
 
 References:
+
 1 - D. Kesdogan and Lexi Pimenidis, "The Hitting Set Attack on Anonymity Protocols", Lecture Notes in Computer Science book series (LNCS,volume 3200), 2004
