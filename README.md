@@ -4,7 +4,7 @@ Hitting Set Attack Algorithm in Mix Networks (C++)
 
 Hitting Set Attack [1] is one of the powerful exact attack to de-anonymize users in Mix Networks.
 Complexity of algorithm is np-complete therefore running time is drawback for large scenarios.
-Here you can find a serial and parallel version of the attack algorithm.
+Here you can find a serial and parallel version of the codes of attack algorithm simulation.
 
 References:
 
