@@ -6,7 +6,7 @@ Hitting Set Attack [1] is one of the powerful exact attack to de-anonymize users
 Complexity of algorithm is np-complete therefore running time is drawback for large scenarios.
 Here you can find a serial and parallel version of the codes of attack algorithm simulation.
 
-You can also calculate the required observation against Hitting Set Attack by considering grouping approach means that some of the users are collaborating to join some of the same rounds together. 
+You can also observe the required observation against Hitting Set Attack by considering grouping approach means that some of the users are collaborating to join some of the same rounds together. 
 
 References:
 
